@@ -12,7 +12,7 @@
             "dist": {
                 "type": "path",
                 "url": "../acme_kernel",
-                "reference": "7720f8f2e04c9a3f5a366c7b2f72aa5b1ee594b5"
+                "reference": "f9e8b90d786ceb01296190863bddc461d8fac485"
             },
             "type": "library",
             "autoload": {
